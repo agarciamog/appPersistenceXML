@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>User Settings</comment>
+<entry key="firstLaunch">N</entry>
+<entry key="bye">Don't be afraid to comeback!</entry>
+<entry key="welcome">Welcome back!</entry>
+</properties>
